@@ -1,1 +1,2 @@
-# ra-hoc-time
+# ra-hoc-time [![Build status](https://ci.appveyor.com/api/projects/status/6482ww0nupd27est?svg=true)](https://ci.appveyor.com/project/barsich/ra-hoc-time)
+[GithubPages](https://barsich.github.io/ra-hoc-time/)
