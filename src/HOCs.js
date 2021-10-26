@@ -3,6 +3,6 @@ import moment from 'moment';
 export default function withPrettyDate(Component) {
   return ({ date }, ...args) => {
     date = moment(date).fromNow();
-    return Component.apply(this, [{ date }, ...args]);
+    return <Component date={date} {...args} />;
   };
 }
